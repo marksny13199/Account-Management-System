@@ -1,5 +1,4 @@
 # Account Management System 
-It is written in JAVA and build on NetBeans.
 The tables in this database are dynamically configured by the System which enables it to create database tables without going to mysql command client or phpmyadmin.
 In order for it to function:
 1. Extract the mysql-connector-java-8.0.21.zip
